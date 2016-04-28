@@ -1,2 +1,0 @@
-# MeinPraktikum
-np2411
