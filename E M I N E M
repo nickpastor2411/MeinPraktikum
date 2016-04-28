@@ -1,0 +1,51 @@
+http://nick-pastor.vms.rb.de/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Eminem GIF Quotes</title>
+  <style type="text/css">
+  body {
+    padding-left: 33em;
+    font-family: Geneva, "Georgia",
+          Times, serif;
+    color: white;
+    background-color: #000000 }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 12.5em;
+    left: 5em;
+    width: 9em }
+
+  h1 {
+    font-family: Impact, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  h1 { font-size: 5em }
+
+  ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: black }
+  a:visited {
+    color: black }
+
+  P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+  }
+
+  p {
+          text-align: justify;
+        }
+
+   </style>
+ </head>
